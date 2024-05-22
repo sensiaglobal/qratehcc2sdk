@@ -1,0 +1,15 @@
+[submodule "edgesdk_devtools"]
+	path = edgesdk_devtools
+	url = https://github.com/sensiaglobal/edgesdk_devtools.git
+[submodule "edgesdk_python_api"]
+	path = edgesdk_python_api
+	url = https://github.com/sensiaglobal/edgesdk_python_api.git
+[submodule "edgesdk_examplecsharp"]
+	path = edgesdk_examplecsharp
+	url = https://github.com/sensiaglobal/edgesdk_examplecsharp.git
+[submodule "edgesdk_dotnet6_api"]
+	path = edgesdk_dotnet6_api
+	url = https://github.com/sensiaglobal/edgesdk_dotnet6_api.git
+[submodule "edgesdk_examplepython"]
+	path = edgesdk_examplepython
+	url = https://github.com/sensiaglobal/edgesdk_examplepython.git
